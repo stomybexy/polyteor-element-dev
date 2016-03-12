@@ -1,0 +1,6 @@
+{
+    "polyfill": "/bower_components/webcomponentsjs/webcomponents-lite.min.js",
+    "imports": [
+        "/bower_components/polyteor-element/demo/demo-element.html"
+    ]
+}
